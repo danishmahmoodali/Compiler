@@ -1,0 +1,4 @@
+class ibd {
+public static void main (){}}
+class ibd {
+}

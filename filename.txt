@@ -1,0 +1,6 @@
+[
+Class Part: data type Value Part: str Line No: 1, 
+Class Part: Identifier Value Part: ab Line No: 1, 
+Class Part: = Value Part: = Line No: 1, 
+Class Part: string constant Value Part: ab Line No: 1, 
+Class Part: ; Value Part: ; Line No: 1]

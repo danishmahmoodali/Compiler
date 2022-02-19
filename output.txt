@@ -1,0 +1,18 @@
+Tokens: 
+Class Part: class Value Part: class Line No: 1, 
+Class Part: Identifier Value Part: ibd Line No: 1, 
+Class Part: { Value Part: { Line No: 1, 
+Class Part: access modifiers Value Part: public Line No: 2, 
+Class Part: static Value Part: static Line No: 2, 
+Class Part: void Value Part: void Line No: 2, 
+Class Part: main Value Part: main Line No: 2, 
+Class Part: ( Value Part: ( Line No: 2, 
+Class Part: ) Value Part: ) Line No: 2, 
+Class Part: { Value Part: { Line No: 2, 
+Class Part: } Value Part: } Line No: 2, 
+Class Part: } Value Part: } Line No: 2, 
+Class Part: class Value Part: class Line No: 3, 
+Class Part: Identifier Value Part: ibd Line No: 3, 
+Class Part: { Value Part: { Line No: 3, 
+Class Part: } Value Part: } Line No: 4, 
+Class Part: $ Value Part: $ Line No: 4]
